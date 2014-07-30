@@ -1,4 +1,5 @@
-### ![Brackets-Themes](/images/bracket-themes-icon-100x99.png) Welcome to Brackets Themes
+![Brackets-Themes](/images/bracket-themes-icon-100x99.png) 
+### Welcome to Brackets Themes
 
 Brackets Themes is made up of a group of Brackets Theme Extension authors who publish their themes as a team under the same banner.
 
