@@ -8,15 +8,15 @@ One of the goals of Brackets Themes is to produce high-quality themes that you c
 ### How to install (only [Brackets](http://www.brackets.io/) 0.42 and later)
 
 
-1. File :arrow_right: Extension manager…
+1. File :arrow_right: "Extension manager…"
 2. Click the tab called "Available"
 3. Type (the name of the theme you want) in the top right search bar
 4. Click "Install".
-5. Click Close on the pop up
-6. Click Close on the extension manager
-7. View :arrow_right: Themes…
+5. Click "Close" on the pop up
+6. Click "Close" on the extension manager
+7. "View" :arrow_right: "Themes…"
 8. Current Theme change to the theme you installed.
-10. Click Done 
+10. Click "Done" 
 
 ### Troubleshooting
 
