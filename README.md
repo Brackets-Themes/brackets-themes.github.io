@@ -24,6 +24,8 @@ One of the goals of Brackets Themes is to produce high-quality themes that you c
 	1. Try hitting F5 (Save changes before doing so!).
 
 ### Our Themes
+#### [808](https://github.com/Brackets-Themes/808)
+![808](https://raw.githubusercontent.com/Brackets-Themes/808/master/screenshots/js.png)
 
 #### [80s Baby](https://github.com/Brackets-Themes/80sBaby)
 ![80s Baby](https://raw.githubusercontent.com/Brackets-Themes/80sBaby/master/css.png)
@@ -57,3 +59,6 @@ One of the goals of Brackets Themes is to produce high-quality themes that you c
 
 #### [Visual Studio](https://github.com/Brackets-Themes/VisualStudio)
 ![Visual Studio](https://raw.githubusercontent.com/brackets-themes/visualstudio/master/screenshot.png)
+
+#### [Zamiere](https://github.com/Brackets-Themes/Zamiere)
+![Zamiere](https://raw.githubusercontent.com/brackets-themes/zamiere/master/screenshot.png)
