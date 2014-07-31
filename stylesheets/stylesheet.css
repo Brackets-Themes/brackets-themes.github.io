@@ -425,5 +425,6 @@ Small Device Styles
 .emoji {
     margin: 0;
     padding: 0;
+    vertical-align: middle;
 
 }
