@@ -37,8 +37,8 @@ One of the goals of Brackets Themes is to produce high-quality themes that you c
 #### [Envy](https://github.com/Brackets-Themes/Envy)
 ![Envy](https://raw.githubusercontent.com/Brackets-Themes/Envy/master/envy-screenshot-js.png)
 
-#### [Monokai](https://github.com/sbruchmann/brackets-theme-monokai)
-![Monokai](https://github.com/Brackets-Themes/Monokai/blob/master/screenshots/html.png)
+#### [Monokai](https://github.com/Brackets-Themes/Monokai)
+![Monokai](https://raw.githubusercontent.com/Brackets-Themes/Monokai/master/screenshots/js.png)
 
 #### [Railcasts](https://github.com/Brackets-Themes/Railcasts)
 ![Railcasts](https://raw.githubusercontent.com/Brackets-Themes/Railcasts/master/railcasts_js.PNG)
