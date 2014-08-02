@@ -19,7 +19,7 @@ One of the goals of Brackets Themes is to produce high-quality themes that you c
 8. Current Theme change to the theme you installed.
 10. Click "Done" 
 
-### Troubleshooting
+#### Troubleshooting
 
 1. Things look "weird"
 	1. Try hitting F5 (Save changes before doing so!).
