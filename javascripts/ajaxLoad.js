@@ -6,6 +6,7 @@ $.getJSON("themes.json").done(function (data) {
   }
 
   var displayContent = "",
+      i,
       theme,
       user,
       repo,
@@ -22,7 +23,7 @@ $.getJSON("themes.json").done(function (data) {
     return name1.localeCompare(name2);
   });
 
-  for (var i = 0; i < data.length; i++) {
+  for (i = 0; i < data.length; i++) {
     theme = data[i];
     if (theme) {
       user    = theme.user || "Brackets-Themes";
@@ -34,15 +35,16 @@ $.getJSON("themes.json").done(function (data) {
         themeURL = encodeURI("https://github.com/" + user + "/" + repo);
         screenURL = encodeURI("https://raw.githubusercontent.com/" + user + "/" + repo + "/master/" + screen);
 
-        displayContent += "<h4 id=\"" + escapeAttr(id) + "\">";
-        displayContent += "<a href='" + themeURL + "'>" + $("<div>").text(name).html() + "</a>";
-        displayContent += "</h4><p>";
-        displayContent += "<a href='" + screenURL + "'>";
-        displayContent += "<img src='" + screenURL + "' alt=\"Screenshot: " + escapeAttr(name) + "\">";
-        displayContent += "</a></p>";
+        displayContent += '<h4 id="' + escapeAttr(id) + '">';
+        displayContent += '<a href="' + themeURL + '">' + $("<div>").text(name).html() + '</a>';
+        displayContent += '</h4><p>';
+        displayContent += '<a href="' + screenURL + '">';
+        displayContent += '<img src="' + screenURL + '" alt="Screenshot: ' + escapeAttr(name) + '">';
+        displayContent += '</a></p>';
       }
     }
   }
+
   if (displayContent) {
     $("#themes").html(displayContent);
   }
