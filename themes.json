@@ -9,6 +9,10 @@
         "screen": "screenshots/css.png"
     },
     {
+        "repo": "DarkSoda",
+        "screen": "screenshot.png"
+    },
+    {
         "repo": "Earth",
         "screen": "screenshot.png"
     },
@@ -23,7 +27,7 @@
     },
     {
         "repo": "Monokai",
-        "screen": "js.png"
+        "screen": "screenshots/js.png"
     },
     {
         "repo": "Railcasts",
@@ -32,7 +36,7 @@
     {
         "repo": "RubyBlue",
         "name": "Ruby Blue",
-        "screen": "RubyBlueThemeScreenshot.png"
+        "screen": "ss/rb-css.PNG"
     },
     {
         "repo": "Solarized",
@@ -41,7 +45,7 @@
     {
         "repo": "TheHamptons",
         "name": "The Hamptons",
-        "screen": "css.png"
+        "screen": "screenshots/css.png"
     },
     {
         "repo": "TomorrowNight",
