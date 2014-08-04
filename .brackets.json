@@ -1,0 +1,9 @@
+{
+    "path": {
+        "**.json": {
+            "spaceUnits": 4
+        }
+    },
+    "spaceUnits": 2,
+    "useTabChar": false
+}
