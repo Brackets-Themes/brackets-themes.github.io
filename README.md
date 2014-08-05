@@ -5,7 +5,7 @@ Brackets Themes is made up of a group of Brackets Theme Extension authors who pu
 
 One of the goals of Brackets Themes is to produce high-quality themes that you can be sure are compliant to the latest standards as set out by the Brackets core dev team and that the themes here will be updated as the standards evolve over time.
 
-**A list of themes with screenshots can be found at http://brackets-themes.github.io**
+**A list of themes with screenshots can be found at [brackets-themes.github.io](http://brackets-themes.github.io)**
 
 ####How to install (only [Brackets](http://www.brackets.io/) 0.42 and later)**
 
