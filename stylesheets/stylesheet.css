@@ -423,8 +423,15 @@ Small Device Styles
 }
 
 .emoji {
-    margin: 0;
-    padding: 0;
-    vertical-align: middle;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+}
 
+
+#themes img {
+  border-radius: 5px;
+  -webkit-box-shadow: 8px 6px 15px 0px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    8px 6px 15px 0px rgba(50, 50, 50, 0.75);
+  box-shadow:         8px 6px 15px 0px rgba(50, 50, 50, 0.75);
 }
