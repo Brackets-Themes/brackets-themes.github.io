@@ -13,6 +13,11 @@
         "screen": "screenshot.png"
     },
     {
+        "repo": "DieterBamz",
+        "name": "Dieter Bamz",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "Earth",
         "screen": "screenshot.png"
     },
@@ -22,11 +27,20 @@
         "screen": "screenshot.png"
     },
     {
+        "repo": "Guardians",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "LightSoda",
         "screen": "screenshot.png"
     },
     {
         "repo": "Monokai",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "PhotonRacer",
+        "name": "Photon Racer",
         "screen": "screenshots/js.png"
     },
     {
@@ -39,8 +53,22 @@
         "screen": "ss/rb-css.PNG"
     },
     {
+        "repo": "Skullomania",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "Solarized",
         "screen": "screenshot.png"
+    },
+    {
+        "repo": "StarPlatinumDark",
+        "name": "Star Platinum Dark",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "StarPlatinumLight",
+        "name": "Star Platinum Light",
+        "screen": "screenshots/js.png"
     },
     {
         "repo": "TheHamptons",
@@ -51,6 +79,10 @@
         "repo": "TomorrowNight",
         "name": "Tomorrow Night",
         "screen": "tomorrow-night-screenshot-css.png"
+    },
+    {
+        "repo": "Twilight",
+        "screen": "screenshot.png"
     },
     {
         "repo": "VisualStudio",
