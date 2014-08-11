@@ -49,6 +49,10 @@
         "screen": "screenshots/js.png"
     },
     {
+        "repo": "Envy",
+        "screen": "envy-screenshot-js.png"
+    },
+    {
         "repo": "Guardians",
         "screen": "screenshots/js.png"
     },
