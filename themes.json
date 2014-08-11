@@ -9,12 +9,30 @@
         "screen": "screenshots/css.png"
     },
     {
+        "repo": "CareBearStare",
+        "name": "Care Bear Stare",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "CareBearStareDark",
+        "name": "Care Bear Stare Dark",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "Coolwater",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "DarkSoda",
         "screen": "screenshot.png"
     },
     {
         "repo": "DieterBamz",
         "name": "Dieter Bamz",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "Dune",
         "screen": "screenshots/js.png"
     },
     {
@@ -25,6 +43,10 @@
         "repo": "EasyDark",
         "name": "Easy Dark",
         "screen": "screenshot.png"
+    },
+    {
+        "repo": "Energy",
+        "screen": "screenshots/js.png"
     },
     {
         "repo": "Guardians",
@@ -74,6 +96,11 @@
         "repo": "TheHamptons",
         "name": "The Hamptons",
         "screen": "screenshots/css.png"
+    },
+    {
+        "repo": "TheWeaver",
+        "name": "The Weaver",
+        "screen": "screenshots/js.png"
     },
     {
         "repo": "TomorrowNight",
