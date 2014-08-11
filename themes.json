@@ -9,8 +9,31 @@
         "screen": "screenshots/css.png"
     },
     {
+        "repo": "CareBearStare",
+        "name": "Care Bear Stare",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "CareBearStareDark",
+        "name": "Care Bear Stare Dark",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "Coolwater",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "DarkSoda",
         "screen": "screenshot.png"
+    },
+    {
+        "repo": "DieterBamz",
+        "name": "Dieter Bamz",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "Dune",
+        "screen": "screenshots/js.png"
     },
     {
         "repo": "Earth",
@@ -22,11 +45,32 @@
         "screen": "screenshot.png"
     },
     {
+        "repo": "Energy",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "Guardians",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "LightSoda",
         "screen": "screenshot.png"
     },
     {
+        "repo": "Lion",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "Monokai",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "Northstar",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "PhotonRacer",
+        "name": "Photon Racer",
         "screen": "screenshots/js.png"
     },
     {
@@ -39,8 +83,26 @@
         "screen": "ss/rb-css.PNG"
     },
     {
+        "repo": "Skullomania",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "Snagglepanther",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "Solarized",
         "screen": "screenshot.png"
+    },
+    {
+        "repo": "StarPlatinumDark",
+        "name": "Star Platinum Dark",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "StarPlatinumLight",
+        "name": "Star Platinum Light",
+        "screen": "screenshots/js.png"
     },
     {
         "repo": "TheHamptons",
@@ -48,9 +110,18 @@
         "screen": "screenshots/css.png"
     },
     {
+        "repo": "TheWeaver",
+        "name": "The Weaver",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "TomorrowNight",
         "name": "Tomorrow Night",
         "screen": "tomorrow-night-screenshot-css.png"
+    },
+    {
+        "repo": "Twilight",
+        "screen": "screenshot.png"
     },
     {
         "repo": "VisualStudio",
