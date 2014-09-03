@@ -69,6 +69,16 @@
         "screen": "screenshots/js.png"
     },
     {
+        "repo": "MushinDark",
+        "name": "Mushin Dark",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "MushinLight",
+        "name": "Mushin Light",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "Nature",
         "screen": "screenshots/HTML.png"
     },
