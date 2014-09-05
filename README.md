@@ -7,10 +7,10 @@ One of the goals of Brackets Themes is to produce high-quality themes that you c
 
 **A list of themes with screenshots can be found at [brackets-themes.github.io](http://brackets-themes.github.io)**
 
-####How to install (only [Brackets](http://www.brackets.io/) 0.42 and later)**
+####How to install (only [Brackets](http://www.brackets.io/) 0.43 and later)**
 
 1. File :arrow_right: "Extension manager…"
-2. Click the tab called "Available"
+2. Click the tab called "Themes"
 3. Type (the name of the theme you want) in the top right search bar
 4. Click "Install".
 5. Click "Close" on the pop up
