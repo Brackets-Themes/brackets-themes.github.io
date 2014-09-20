@@ -83,6 +83,16 @@
         "screen": "screenshots/HTML.png"
     },
     {
+        "repo": "NewtonDark",
+        "name": "Newton Dark",
+        "screen": "screenshots/html.png"
+    },
+    {
+        "repo": "NewtonLight",
+        "name": "Newton Light",
+        "screen": "screenshots/html.png"
+    },
+    {
         "repo": "Northstar",
         "screen": "screenshots/js.png"
     },
@@ -140,6 +150,11 @@
     {
         "repo": "Twilight",
         "screen": "screenshot.png"
+    },
+    {
+        "repo": "VarzDark",
+        "name": "Varz Dark",
+        "screen": "screenshots/html.png"
     },
     {
         "repo": "VisualStudio",
