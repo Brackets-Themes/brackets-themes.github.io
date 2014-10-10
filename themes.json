@@ -57,11 +57,21 @@
         "screen": "screenshots/js.png"
     },
     {
+        "repo": "IPlastic",
+        "name": "iPlastic",
+        "screen": "screenshots/js.png"
+    },
+    {
         "repo": "LightSoda",
         "screen": "screenshots/CSS.png"
     },
     {
         "repo": "Lion",
+        "screen": "screenshots/js.png"
+    },
+    {
+        "repo": "MidnightPumpkin",
+        "name": "Midnight Pumpkin",
         "screen": "screenshots/js.png"
     },
     {
