@@ -433,3 +433,20 @@ Small Device Styles
   border-radius: 5px;
   box-shadow: 8px 6px 15px 0px rgba(50, 50, 50, 0.75);
 }
+
+#themes {
+  margin-bottom: 6em;
+}
+
+#people {
+  text-align: center;
+}
+
+#people img {
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  box-shadow: 0 0 10px 3px rgba(50, 50, 50, 0.75);
+  padding: 0;
+  margin: auto 5px;
+}
