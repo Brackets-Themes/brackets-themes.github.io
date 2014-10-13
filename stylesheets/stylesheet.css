@@ -435,7 +435,7 @@ Small Device Styles
 }
 
 #themes {
-  margin-bottom: 6em;
+  margin-bottom: 3.5em;
 }
 
 #people {
@@ -446,7 +446,8 @@ Small Device Styles
   width: 64px;
   height: 64px;
   border-radius: 100%;
-  box-shadow: 0 0 10px 3px rgba(50, 50, 50, 0.75);
+  box-shadow: 0 0 8px 3px rgba(50, 50, 50, 0.75);
   padding: 0;
-  margin: auto 5px;
+  border: none;
+  margin: auto 6px;
 }
