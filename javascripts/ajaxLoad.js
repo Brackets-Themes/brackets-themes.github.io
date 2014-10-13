@@ -49,3 +49,18 @@ $.getJSON("themes.json").done(function (data) {
     $("#themes").html(displayContent);
   }
 });
+
+$.getJSON("https://api.github.com/orgs/Brackets-Themes/members?per_page=100").done(function (data) {
+  var displayContent = "", i, member;
+
+  for (i = 0; i < data.length; i++) {
+    member = data[i];
+    displayContent += '<a href="' + member.html_url + '">';
+    displayContent += '<img src="' + member.avatar_url.split("?")[0] + '?s=64" title="' + member.login + '">';
+    displayContent += '</a>';
+  }
+
+  if (displayContent) {
+    $("#people").html(displayContent);
+  }
+});
